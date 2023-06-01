@@ -1,7 +1,7 @@
 Email,Keyword,Lunghezza,Intestazione,Valida
 1,offerta,lunga,si,si
 2,offerta,lunga,no,si
-3,offerta,corta,no
+3,offerta,corta,no,no
 4,offerta,media,si,si
 5,money,media,no,no
 6,money,lunga,si,no
@@ -11,7 +11,7 @@ Email,Keyword,Lunghezza,Intestazione,Valida
 10,viagra,media,no,no
 11,offerta,lunga,si,si
 12,offerta,lunga,no,si
-13,offerta,corta,no
+13,offerta,corta,no,no
 14,offerta,media,si,si
 15,money,media,no,no
 16,money,lunga,si,no
@@ -21,7 +21,7 @@ Email,Keyword,Lunghezza,Intestazione,Valida
 20,viagra,media,no,no
 21,offerta,lunga,si,si
 22,offerta,lunga,no,si
-23,offerta,corta,no
+23,offerta,corta,no,no
 24,offerta,media,si,si
 25,money,media,no,no
 26,money,lunga,si,no
